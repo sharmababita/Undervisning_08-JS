@@ -48,8 +48,8 @@ function businessCard() {
 
 
 function myCard() {
- const firstName = "Alex";
-    const lastName = "Siamon";
+ const firstName = "Babita";
+    const lastName = " Sharma";
     const fullName = `${firstName} ${lastName}!`;
     console.log(fullName);
 
